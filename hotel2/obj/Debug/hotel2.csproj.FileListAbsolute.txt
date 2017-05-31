@@ -1,0 +1,13 @@
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\bin\Debug\hotel2.exe.config
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.Form1.resources
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.Properties.Resources.resources
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.csproj.GenerateResource.Cache
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\bin\Debug\hotel2.exe
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\bin\Debug\hotel2.pdb
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.exe
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.pdb
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.csprojResolveAssemblyReference.cache
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.Menu.resources
+c:\users\gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.Room.resources
+C:\Users\Gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.Reserve.resources
+C:\Users\Gunel\documents\visual studio 2015\Projects\hotel2\hotel2\obj\Debug\hotel2.User.resources
